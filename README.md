@@ -1,0 +1,1 @@
+This is code demo for int lastIndexOf(String str, int fromIndex) - a method of string
